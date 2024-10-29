@@ -25,7 +25,7 @@ Este projeto utiliza o microcontrolador ESP8266 para conectar-se a uma rede Wi-F
 ### Variáveis de Configuração
 
 - **`ssid`**: Nome da rede Wi-Fi (SSID).
-- **`password`**: Senha da rede Wi-Fi. Mantenha-a segura para proteger o acesso ao dispositivo.
+- **`password`**: Senha da rede Wi-Fi.
 - **`LED_PIN`**: Pino do ESP8266 conectado ao LED (pino D1).
 
 ### Funções
