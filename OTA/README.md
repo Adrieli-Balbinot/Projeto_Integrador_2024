@@ -25,7 +25,7 @@ Este projeto implementa uma conexão Wi-Fi para um dispositivo ESP8266, usando u
 ### Variáveis de Configuração
 
 - **`ssid`**: Nome da rede Wi-Fi (SSID).
-- **`password`**: Senha da rede Wi-Fi. É importante mantê-la segura para proteger o acesso ao dispositivo.
+- **`password`**: Senha da rede Wi-Fi. 
 
 ### Funções
 
