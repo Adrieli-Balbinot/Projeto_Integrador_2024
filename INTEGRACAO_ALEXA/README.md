@@ -110,9 +110,11 @@ Abaixo está o esquema de conexão para o projeto:
 
 ![Arquitetura do projeto](imagens/WhatsApp%20Image%202024-11-19%20at%2021.12.33.jpeg)
 
+---
+
 ## Demonstração do Projeto
 
 Abaixo está um GIF demonstrando o funcionamento do projeto:
 
-<!-- ![Funcionamento do Projeto](images/exemplo.gif) -->
+![Funcionamento do Projeto](imagens/gif_teste_projeto.gif)
 
