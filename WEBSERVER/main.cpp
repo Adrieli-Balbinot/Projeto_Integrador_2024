@@ -9,7 +9,7 @@ ESP8266WebServer server(80);  // Inicializa o servidor web na porta 80.
 const int led = LED_BUILTIN;   // Define o LED embutido como 'led'.
 
 IPAddress local_IP(192,168,143,54); // IP desejado para o ESP8266
-IPAddress gateway(192,168,143,1);   // Gateway correto conforme a imagem
+IPAddress gateway(192,168,143,1);   
 IPAddress subnet(255,255,255,0);    // Máscara de sub-rede
 
 void configureWiFi();
