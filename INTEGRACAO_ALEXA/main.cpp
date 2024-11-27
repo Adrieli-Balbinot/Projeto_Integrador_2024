@@ -4,8 +4,8 @@
 #include <SinricPro.h>
 #include <SinricProSwitch.h>
 // Define constantes para conexão Wi-Fi e SinricPro
-#define WIFI_SSID "Rede_adri"
-#define WIFI_PASS "socorro12"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 #define APP_KEY "e0becc9d-987a-429f-ab78-4d9704f69f04"
 #define APP_SECRET "acf57110-798d-4f0f-a70f-a74d1e124a28-e8c1ab4c-977e-4a8c-a868-ef46f6229ea5"
 #define SWITCH_ID "6733d25fe68a1fbf3fa9c7fd"
