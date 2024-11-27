@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "Rede_adri";
-const char* password = "socorro12";
+const char* ssid = "";
+const char* password = "";
 
 ESP8266WebServer server(80);  // Inicializa o servidor web na porta 80.
 const int led = LED_BUILTIN;   // Define o LED embutido como 'led'.
