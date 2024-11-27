@@ -3,9 +3,9 @@
 #include <ArduinoOTA.h>
 
 
-const char* ssid = "Rede_adri";
+const char* ssid = "";
 
-const char* password = "socorro12";
+const char* password = "";
 
 
 
