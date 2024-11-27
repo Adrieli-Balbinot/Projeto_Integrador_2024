@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <ArduinoOTA.h>
 
-const char *ssid = "Rede_adri";
-const char *passoword = "socorro12";
+const char *ssid = "";
+const char *passoword = "";
 
 void setup()
 {
